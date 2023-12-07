@@ -5,7 +5,7 @@ public class SymmetricEncryption {
 
     
     public static void main(String[] args) {
-        final String hiddenkey = "917319391631693";
+        final String hiddenkey = "Final Project";
        String project = " Cryptography Information";
        
        
