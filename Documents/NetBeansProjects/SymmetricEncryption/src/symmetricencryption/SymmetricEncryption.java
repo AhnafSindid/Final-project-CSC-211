@@ -10,11 +10,9 @@ public class SymmetricEncryption {
        
        
        String encrypted = AES.encryption(project , hiddenkey);
-       String decrypted = AES.decryption(project, hiddenkey);
        
        System.out.println("project:" + project);
        System.out.println(encrypted);
-       System.out.println(hiddenkey);
     }
     
 }
